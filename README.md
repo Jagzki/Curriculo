@@ -1,4 +1,5 @@
 # Curriculo
+Site disponibilizado: https://curriculojosegrabobiezki.netlify.app/
 Esse é meu currículo atualizado com meus dados e um pouco sobre mim.
 
 Este  es mi curriculum actualizado con mis datos y un poco sobre mi.
